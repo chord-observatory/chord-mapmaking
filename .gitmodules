@@ -1,0 +1,6 @@
+[submodule "radivs"]
+	path = radivs
+	url = git@gitlab.com:hanshopkins/radivs.git
+[submodule "radivs_examples"]
+	path = radivs_examples
+	url = git@gitlab.com:hanshopkins/radivs_examples.git
