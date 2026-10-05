@@ -1,7 +1,7 @@
-[submodule "radivs_examples"]
-	path = radivs_examples
-	url = git@gitlab.com:hanshopkins/radivs_examples.git
 [submodule "radivs"]
 	path = radivs
 	url = git@github.com:chord-observatory/radivs.git
 	branch = release
+[submodule "radivs_examples"]
+	path = radivs_examples
+	url = git@github.com:chord-observatory/radivs_examples.git
