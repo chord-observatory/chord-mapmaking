@@ -1,3 +1,6 @@
 [submodule "radivs_examples"]
 	path = radivs_examples
 	url = git@gitlab.com:hanshopkins/radivs_examples.git
+[submodule "radivs"]
+	path = radivs
+	url = https://github.com/chord-observatory/radivs
