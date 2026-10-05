@@ -3,4 +3,4 @@
 	url = git@gitlab.com:hanshopkins/radivs_examples.git
 [submodule "radivs"]
 	path = radivs
-	url = https://github.com/chord-observatory/radivs
+	url = git@github.com:chord-observatory/chord-mapmaking.git
