@@ -4,3 +4,4 @@
 [submodule "radivs"]
 	path = radivs
 	url = git@github.com:chord-observatory/chord-mapmaking.git
+	branch = release
